@@ -1,7 +1,7 @@
 const buttons = document.querySelectorAll('.buttons button');
 const inputEl = document.querySelector('input');
 const output = document.querySelector('#output');
-const historyContainer = document.querySelector('.history');
+const history = document.querySelector('.history');
 
 const STORAGE_NAME = 'history_v4';
 
